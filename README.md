@@ -1,1 +1,1 @@
-# Assignments in INFO7390 Advanced Data Science/Architecture
+Assignments in INFO7390 Advanced Data Science/Architecture
